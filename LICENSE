@@ -1,0 +1,3 @@
+UNLICENSED
+
+Default copyright laws apply
