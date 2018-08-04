@@ -14,13 +14,13 @@ title: DHBW | Florian Peschka
 
 > Darstellung von Vektorgrafiken in modernen Browserumgebungen
 
-[View](./files/Projektarbeit 1.pdf)
+[View](./files/Projektarbeit%201.pdf)
 
 ## Projektarbeit 2
 
 > Integration eines SVG-Viewers in eine beispielhafte ETK-Umgebung
 
-[View](./files/Projektarbeit 2.pdf)
+[View](./files/Projektarbeit%202.pdf)
 
 ## Bachelorarbeit
 
