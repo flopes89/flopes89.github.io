@@ -22,7 +22,7 @@ I'm open to talk about almost anything, so just contact me and we can have a cha
 
 [![DHBW][DHBW]](./dhbw)
 
-All the things I did for my Bachelor's Degree at the DHBW (T1000, T2000, T3000, T3300).
+[Here you'll find](./dhbw) all the things I did for my Bachelor's Degree at the DHBW (T1000, T2000, T3000, T3300).
 
 This is pretty boring stuff mostly, but hey - I wrote it, it got me a degree, so there it is. 
 
