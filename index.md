@@ -20,6 +20,18 @@ I'm open to talk about almost anything, so just contact me and we can have a cha
 
 ---
 
+## Things I know
+
+PHP | C# | HTML | CSS | JavaScript | Java | SQL | MySQL | React | webpack | parcel | Python
+
+---
+
+## Things I want to learn
+
+C++ | Rust | Go | WebASM
+
+---
+
 [![DHBW][DHBW]](./dhbw)
 
 [Here you'll find](./dhbw) all the things I did for my Bachelor's Degree at the DHBW (T1000, T2000, T3000, T3300).
