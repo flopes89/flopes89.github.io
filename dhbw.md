@@ -4,29 +4,21 @@ title: DHBW | Florian Peschka
 
 # DHBW
 
-## Projektbericht
+## [Projektbericht](./files/Projektbericht.pdf)
 
-> Entwicklung eines Programms zur Verwaltung und Dokumentation von Firewallpolicys nach 21CFR11
+Entwicklung eines Programms zur Verwaltung und Dokumentation von Firewallpolicys nach 21CFR11
 
-[View](./files/Projektbericht.pdf)
+## [Projektarbeit 1](./files/Projektarbeit%201.pdf)
 
-## Projektarbeit 1
+Darstellung von Vektorgrafiken in modernen Browserumgebungen
 
-> Darstellung von Vektorgrafiken in modernen Browserumgebungen
+## [Projektarbeit 2](./files/Projektarbeit%202.pdf)
 
-[View](./files/Projektarbeit%201.pdf)
+Integration eines SVG-Viewers in eine beispielhafte ETK-Umgebung
 
-## Projektarbeit 2
+## [Bachelorarbeit](./files/Bachelorarbeit.pdf)
 
-> Integration eines SVG-Viewers in eine beispielhafte ETK-Umgebung
-
-[View](./files/Projektarbeit%202.pdf)
-
-## Bachelorarbeit
-
-> Entwicklung eines modularen Systems zur regelbasierten und automatisierten Dokumentenkomposition
-
-[View](./files/Bachelorarbeit.pdf)
+Entwicklung eines modularen Systems zur regelbasierten und automatisierten Dokumentenkomposition
 
 ---
 
