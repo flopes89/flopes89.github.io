@@ -10,17 +10,22 @@ title: Florian Peschka
 
 Whatever path brought you here, feel free to browse.
 
-I occasionally put stuff on here related to my work, my life or things that interest me. It is not a blog nor a portfolio. Just a page for anything I decide to put there.
+I occasionally put stuff on here related to my work, my life or things that interest me.
+It is not a blog nor a portfolio. Just a page for anything I decide to put there.
 
 ---
 
-If you want to get to know me professionally, check out my [StackOverflow profile](http://stackoverflow.com/users/204693/florian-peschka), or directly view my [resume](http://stackoverflow.com/cv/florianpeschka).
+If you want to get to know me professionally, check out my
+[StackOverflow profile](http://stackoverflow.com/users/204693/florian-peschka), or directly view my
+[resume](http://stackoverflow.com/cv/florianpeschka).
 
 I'm open to talk about almost anything, so just contact me and we can have a chat.
 
 ---
 
-## Things I know
+## Skills
+
+Rated using the *ASTASA*<sup>1</sup> scale from 0 to 100.
 
 PHP | C# | HTML | CSS | JavaScript | Java | SQL | MySQL | React | webpack | parcel | Python
 
@@ -39,3 +44,7 @@ C++ | Rust | Go | WebASM
 This is pretty boring stuff mostly, but hey - I wrote it, it got me a degree, so there it is. 
 
 [DHBW]: ./img/dhbw-thumbnail.png
+
+---
+
+* 1: **A**rbitrary **S**elfreflected **T**otally **A**ccuracte **S**kill **A**ssessment
