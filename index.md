@@ -23,36 +23,30 @@ I'm open to talk about almost anything, so just contact me and we can have a cha
 
 ---
 
-## Skills
+## Things I …
 
-| The Thing | Experience with and thoughs about the thing | *ASTASA*<sup>1</sup> Score |
-|---|---|---|
-| ![HTML][HTML] | One of the first things I ever learned to make a computer do things that I wanted<br/>Has been with me for all my professional life and still surprises me<br/>Tables are cool in certain cases, fight me<br/>*marquee!* | 95 |
-| ![CSS][CSS] | Learned soon after diving into HTML<br/>Made all the horrible early 2000 mistakes<br/>Animations are black magic<br/>First time I saw a responsive design I thought *geez, why has noone made this earlier* | 75 |
-| ![PHP][PHP] | First "real" programming language I ever learned<br/>Many years of using since the days of v4<br/>Mainly using Symfony nowadays<br/>To this day my #1 pet language<br/>Haven't yet compiled it myself though... | 85 |
-| ![JavaScript][JavaScript] | First contact as DHTML, good times directly injecting it<br/>Used in almost every project to various degrees<br/>Love/Hate relationship to this day<br/>Browser manufacturers should get their stuff together<br/>Like sugar, fun in small doses, terrible when overdoing it | 60 |
-| ![C#][Csharp] | | 60 |
-| ![Java][Java] | | 50 |
-| ![MySQL][MySQL] | | 70 |
-| ![MSSQL][MSSQL] | | 45 |
-| ![React][React] | | 40 |
-| ![parcel][parcel] | | 10 |
-| ![Python][Python] | | 10 |
-| ![Ansible][Ansible] | | 5 |
-| ![Apache][Apache] | | 55 |
-| ![Docker][Docker] | | 20 |
-| ![Eclipse][Eclipse] | | 30 |
-| ![Linux][Linux] | | 20 |
-| ![Netbeans][Netbeans] | | 15 |
-| ![NodeJS][NodeJS] | | 25 |
-| ![PHPStorm][PHPStorm] | | 45 |
-| ![SASS][SASS] | | 60 |
-| ![Vagrant][Vagrant] | | 10 |
-| ![VBA][VBA] | | 15 |
-| ![webpack][webpack] | | 15 |
-| ![Windows Server][Windows Server] | | 35 |
+### … am decent with
 
-<sup>1</sup> **A**rbitrary **S**elfreflected **T**otally **A**ccuracte **S**kill **A**ssessment
+![HTML][HTML] ![CSS][CSS] ![PHP][PHP] ![JavaScript][JavaScript] ![MySQL][MySQL] ![C#][Csharp]
+![Java][Java] ![Apache][Apache] ![Eclipse][Eclipse] ![NodeJS][NodeJS]
+
+### … know a bit about
+
+![MSSQL][MSSQL] ![React][React] ![Linux][Linux] ![Netbeans][Netbeans] ![PHPStorm][PHPStorm] ![SASS][SASS]
+![Windows Server][Windows Server]
+
+### … recently started and want to improve
+
+![webpack][webpack] ![parcel][parcel] ![Docker][Docker]
+
+### … am familiar but not confident with
+
+![Python][Python] ![Ansible][Ansible] ![Vagrant][Vagrant]
+
+### … would rather not touch
+![VBA][VBA]
+
+---
 
 [![DHBW][DHBW]](./dhbw)
 
