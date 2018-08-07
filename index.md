@@ -63,6 +63,7 @@ This is pretty boring stuff mostly, but hey - I wrote it, it got me a degree, so
 ---
 
 [DHBW]: ./img/dhbw-thumbnail.png
+[Csharp]: ./img/csharp.png
 [PHP]: ./img/php.png
 [HTML]: ./img/html5.png
 [CSS]: ./img/css.png
