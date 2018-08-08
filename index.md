@@ -1,13 +1,3 @@
----
-title: Florian Peschka
----
-
-# Florian Peschka
-
-*B. Eng. since 2012, Nerd since 1999*
-
----
-
 Whatever path brought you here, feel free to browse.
 
 I occasionally put stuff on here related to my work, my life or things that interest me.
