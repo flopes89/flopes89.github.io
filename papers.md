@@ -2,7 +2,11 @@
 title: DHBW | Florian Peschka
 ---
 
-# DHBW
+[![DHBW][DHBW]](./dhbw)
+
+Here you'll find all the things I did for my Bachelor's Degree at the DHBW (T1000, T2000, T3000, T3300).
+
+This is pretty boring stuff mostly, but hey - I wrote it, it got me a degree, so there it is. 
 
 ## [Projektbericht](./files/Projektbericht.pdf)
 
@@ -20,6 +24,4 @@ Integration eines SVG-Viewers in eine beispielhafte ETK-Umgebung
 
 Entwicklung eines modularen Systems zur regelbasierten und automatisierten Dokumentenkomposition
 
----
-
-[Back](./index)
+[DHBW]: ./img/dhbw-thumbnail.png
