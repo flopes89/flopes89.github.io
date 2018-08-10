@@ -22,7 +22,7 @@ So, without further ado, here are: **Things that I …**
 **… know a bit about**
 
 ![MSSQL][MSSQL] ![React][React] ![Linux][Linux] ![Netbeans][Netbeans] ![PHPStorm][PHPStorm] ![SASS][SASS]
-![Windows Server][Windows Server] ![Azure][Azure] ![Windows Server][WindowsServer] ![JIRA][JIRA]
+![Windows Server][WindowsServer] ![Azure][Azure] ![JIRA][JIRA]
 
 **… recently started and want to improve**
 
@@ -38,6 +38,7 @@ So, without further ado, here are: **Things that I …**
 
 [Ansible]: ./img/ansible.png
 [Apache]: ./img/apache.png
+[Azure]: ./img/azure.png
 [Bitbucket]: ./img/bitbucket.png
 [Csharp]: ./img/csharp.png
 [CSS]: ./img/css.png
